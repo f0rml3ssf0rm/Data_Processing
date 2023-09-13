@@ -39,4 +39,5 @@ if select.startswith("Open"):
                 avg = str(avg)
                 print("The Average Wind Speed Is: " + avg)
                 select = input("Open, View, Edit, Exit: ")
+                
 
